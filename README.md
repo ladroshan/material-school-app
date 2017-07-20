@@ -10,5 +10,4 @@ For complete working, watch this video: https://www.youtube.com/watch?v=aJ75N5Hp
 
 Source code isn't available but in particular if you need to ask anything, I would help for sure!
 
-![Alt text](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.parassidhu.sarvodaya)
